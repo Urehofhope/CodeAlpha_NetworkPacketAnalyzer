@@ -82,6 +82,6 @@ TCP · UDP · ICMP · DNS · ARP · HTTP
 
 ## Ureh
 
-**Ureh** — Medical Laboratory Scientist turned Cybersecurity enthusiast  
-CodeAlpha Cybersecurity Intern  
+**Ureh** — Cybersecurity enthusiast  
+CodeAlpha Cybersecurity Intern  March 2026 -April 2026
 [LinkedIn](#) · [GitHub](#)
